@@ -7,6 +7,8 @@ eshell
 elpa
 el-get
 semanticdb
+ac-comphist.dat
+bookmarks
 custom.el
 url
 personal/*.el
